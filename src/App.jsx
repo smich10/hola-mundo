@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      <h1>¡Hola Mundo! Soy Sabine y el despliegue automático funciona</h1>.
+      <h1>Ya hay que hacer lo del doc</h1>.
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
